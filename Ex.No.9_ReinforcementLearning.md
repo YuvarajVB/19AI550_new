@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212223230252
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
@@ -106,11 +106,20 @@ behaviors:
         strength: 1.0
 ```
 ### Output:
+### Unity Render:
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/7e24bfe4-df0f-4e2d-a39c-22b681a06022" />
 
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/19170d5d-bbec-42cd-a8c1-fa4acb7a1a18" />
 
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/38642eab-923b-4902-a500-8c73483ce426" />
 
+### TensorBoard grapghs:
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/69116d6e-73ae-4f76-9168-6db814cdbfc9" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dfb7e7bb-422a-455e-bc3c-a4a50971c78f" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9748399b-b62c-47b6-a97b-959c20802101" />
 
 
 
